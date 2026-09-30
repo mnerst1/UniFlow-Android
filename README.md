@@ -5,14 +5,20 @@ A local university workspace built with Kotlin and Jetpack Compose. English, Қ�
 <!-- uniflow-screenshots:start -->
 ## Screenshots · Скриншоты · Скриншоттар
 
-Actual Android emulator screenshots — English/light, Russian/dark and Kazakh/dark.
+Dashboard, weekly timetable, tasks and courses — screenshots from the running app.
+
+| Dashboard | Weekly timetable | Tasks | Courses |
+|---|---|---|---|
+| <img src="docs/screenshots/device-dashboard.png" alt="UniFlow dashboard" width="240"> | <img src="docs/screenshots/device-schedule.png" alt="Weekly timetable" width="240"> | <img src="docs/screenshots/device-tasks.png" alt="Tasks and deadlines" width="240"> | <img src="docs/screenshots/device-courses.png" alt="Courses and teachers" width="240"> |
+
+<details>
+<summary>Light theme & localization / Светлая тема и языки / Ашық тақырып және тілдер</summary>
+
+English/light, Russian/dark and Kazakh/dark — Android emulator screenshots.
 
 ![UniFlow workspace preview](docs/screenshots/preview.png)
 
-<details>
-<summary>Full-size screenshots / Полные скриншоты / Толық скриншоттар</summary>
-
-| English · Light | Русский · Dark |
+| English · Light | Русский / Қазақша · Dark |
 |---|---|
 | ![Dashboard in English](docs/screenshots/home-en-light.png) | ![Главная на русском](docs/screenshots/home-ru-dark.png) |
 | ![Calendar and exams](docs/screenshots/calendar-en-light.png) | ![Қазақша бағалар мен GPA](docs/screenshots/grades-kk-dark.png) |
