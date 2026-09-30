@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+captures/
+.DS_Store
+
+# Android Studio generated release packages
+app/release/
+*.apk
+*.aab
+*.apks
+*.hprof
